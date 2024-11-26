@@ -2,3 +2,14 @@
 GET http://localhost:3000/
 
 ###
+
+### PUT
+PUT http://localhost:3000/books/1
+Content-Type: application/json
+
+{
+  "title": "Władca Pierścieni",
+  "author": "J.R.R. Tolkien",
+  "category": "Fantasy"
+}
+###
