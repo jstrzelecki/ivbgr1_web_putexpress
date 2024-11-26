@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Władca Pierścieni",
+    "author": "J.R.R. Tolkien",
+    "category": "Horror"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "category": "Fantasy"
+  }
+]
